@@ -5,4 +5,4 @@ Authors: Sergio Zabala Mesonero , Sergio Fernández Gómez
 All each the folders are the different components of the project.
 Those components communicate by interfaces,using Component Oriented Programming technolog.
 Their beahivour is implemented in C++ language subfolders <br/>
-<b/> [component-name]/src/specificworker.cpp/.h
+<b/> [component-name]/src/specificworker.cpp or .h

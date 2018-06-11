@@ -1,0 +1,15 @@
+import "/robocomp/interfaces/IDSLs/IrObjetivo.idsl";
+import "/robocomp/interfaces/IDSLs/DifferentialRobot.idsl";
+import "/robocomp/interfaces/IDSLs/GetAprilTags.idsl";
+
+Component planificador
+{
+	Communications
+	{
+		requires IrObjetivo,DifferentialRobot,GetAprilTags;
+		
+	};
+	language Cpp;
+	gui Qt(QWidget);
+};
+

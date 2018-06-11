@@ -1,0 +1,28 @@
+CommonBehavior.Endpoints=tcp -p 12000
+
+
+# Endpoints for implemented interfaces
+IrObjetivo.Endpoints=tcp -p 18000
+
+
+# Endpoints for subscriptions
+RCISMousePickerTopic.Endpoints=tcp -p 15000
+AprilTagsTopic.Endpoints=tcp -p 10262
+
+
+# Proxies for required interfaces
+LaserProxy = laser:tcp -h localhost -p 10003
+JointMotorProxy = jointmotor:tcp -h localhost -p 20000
+DifferentialRobotProxy = differentialrobot:tcp -h localhost -p 10004
+
+
+# This property is used by the clients to connect to IceStorm.
+TopicManager.Proxy=IceStorm/TopicManager:default -p 9999
+
+Ice.Warn.Connections=0
+Ice.Trace.Network=0
+Ice.Trace.Protocol=0
+Ice.ACM.Client=10
+Ice.ACM.Server=10
+
+

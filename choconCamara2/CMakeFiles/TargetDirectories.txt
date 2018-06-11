@@ -1,0 +1,14 @@
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/install.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/list_install_components.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/install/strip.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/install/local.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/rebuild_cache.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/CMakeFiles/edit_cache.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/install.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/list_install_components.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/rebuild_cache.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/chocon.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/install/strip.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/install/local.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/edit_cache.dir
+/home/salabeta/robocomp/components/sergiosrobotica/componentes/choconCamara/src/CMakeFiles/chocon_automoc.dir

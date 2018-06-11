@@ -1,0 +1,20 @@
+import "/robocomp/interfaces/IDSLs/Laser.idsl";
+import "/robocomp/interfaces/IDSLs/DifferentialRobot.idsl";
+import "/robocomp/interfaces/IDSLs/RCISMousePicker.idsl";
+import "/robocomp/interfaces/IDSLs/IrObjetivo.idsl";
+import "/robocomp/interfaces/IDSLs/JointMotor.idsl";
+import "/robocomp/interfaces/IDSLs/GetAprilTags.idsl";
+
+Component choconFinal
+{
+	Communications
+	{
+		implements IrObjetivo;
+		requires Laser,DifferentialRobot,JointMotor,GetAprilTags;
+		subscribesTo RCISMousePicker;
+		
+	};
+	language Cpp;
+	gui Qt(QWidget);
+};
+
